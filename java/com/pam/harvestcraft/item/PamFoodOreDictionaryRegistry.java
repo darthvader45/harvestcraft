@@ -168,7 +168,7 @@ public class PamFoodOreDictionaryRegistry {
     public static final String seedSpinach="seedSpinach";
     public static final String cropCurryleaf="cropCurryleaf";
     public static final String seedCurryleaf="seedCurryleaf";
-    public static final String cropSesame="cropSesame";
+    public static final String cropSesameseed="cropSesameseed";
     public static final String seedSesameseed="seedSesameseed";
     public static final String cropWaterchestnut="cropWaterchestnut";
     public static final String seedWaterchestnut="seedWaterchestnut";
@@ -1206,7 +1206,7 @@ public class PamFoodOreDictionaryRegistry {
         OreDictionary.registerOre(listAllspice, ItemRegistry.currypowderItem);
         OreDictionary.registerOre(seedCurryleaf, ItemRegistry.curryleafseedItem);
         OreDictionary.registerOre(listAllseed, ItemRegistry.curryleafseedItem);
-        OreDictionary.registerOre(cropSesame, ItemRegistry.sesameseedsItem);
+        OreDictionary.registerOre(cropSesameseed, ItemRegistry.sesameseedsItem);
         OreDictionary.registerOre(seedSesameseed, ItemRegistry.sesameseedsseedItem);
         OreDictionary.registerOre(listAllseed, ItemRegistry.sesameseedsseedItem);
         OreDictionary.registerOre(cropWaterchestnut, ItemRegistry.waterchestnutItem);
